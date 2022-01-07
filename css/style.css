@@ -219,7 +219,7 @@
 }
 
 #wrap section > #slides > .slides-container {
-  width: 100%;
+  width: 1400px;
 }
 
 #wrap section > #slides > .slides-container > li {
@@ -263,7 +263,7 @@
   display: flex;
   position: absolute;
   left: 45%;
-  top: 73%;
+  top: 78%;
 }
 
 #wrap section .slides-pagination > li {

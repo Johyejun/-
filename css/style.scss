@@ -199,7 +199,7 @@ body {
       overflow: hidden;
 
       > .slides-container {
-        width: 100%;
+        width: 1400px;
         > li {
           display: none;
           position: absolute;
@@ -235,7 +235,7 @@ body {
       display: flex;
       position: absolute;
       left: 45%;
-      top: 73%;
+      top: 78%;
       > li {
         text-indent: -9999px;
         background-image: url(./../images/btn.png);
